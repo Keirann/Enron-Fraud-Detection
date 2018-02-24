@@ -7,4 +7,5 @@ text_learning/your_word_data.pkl
 text_learning/your_email_authors.pkl
 my_classifier.pkl
 my_dataset.pkl
+*.tar.gz
 my_feature_list.pkl
